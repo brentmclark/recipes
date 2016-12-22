@@ -1,5 +1,7 @@
 # Tater Tot Hotdish
 
+A family recipe.
+
 ### INGREDIENTS
 
 * 1<sup>1/2</sup> lbs. browned hamburger

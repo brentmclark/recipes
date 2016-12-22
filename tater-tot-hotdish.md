@@ -2,13 +2,13 @@
 
 ### INGREDIENTS
 
-* 1 ^1/_2 lbs. browned hamburger
+* 1 <sup>1/2</sup> lbs. browned hamburger
 * 1 bag frozen tater tots
 * 1 bag frozen mixed vegetables
 * 1 can Cream of Mushroom soup
 * 1 can Cream of Chicken soup
 * 1 tsp. salt
-* ^1/_2 tsp. pepper
+* 1/2 tsp. pepper
 
 ### METHOD
 

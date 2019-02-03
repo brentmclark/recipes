@@ -1,4 +1,4 @@
-#Belgian Waffle Batter
+# Belgian Waffle Batter
 Makes 8 waffles
 
 ### INGREDIENTS

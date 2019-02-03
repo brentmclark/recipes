@@ -1,7 +1,7 @@
 #Belgian Waffle Batter
 Makes 8 waffles
 
-###INGREDIENTS
+### INGREDIENTS
 - 3 eggs, separated
 - 2 cups mils
 - 5oz unsalted butter, melted and cooled
@@ -9,14 +9,14 @@ Makes 8 waffles
 - 2.25 cups [self-rising flour](http://allrecipes.com/recipe/149310/self-rising-flour/)
 - 3 tbsp. [baker's sugar](http://www.bakepedia.com/baking-encyclopedia/bakers-sugar/) (although I have used granulated __and__ confectioner's sugar before, both with great success)
 
-###METHOD
+### METHOD
 
 1.  Place egg yolks, milk, butter, and vanilla in a large bowl and whisk until well combined
 2.  Combine Flour and sugar into a second, large mixing bowl and make a well in the center
 3.  Carefully whisk in egg yolk-milk mixture to form a smooth batter
 4.  Beat egg whites with electric hand mixer until stiff peaks form.  Gently fold egg whites into batter.
 
-###COOKING INSTRUCTIONS
+### COOKING INSTRUCTIONS
 
 These instructions are specific to the Breville waffle maker I own. (Which is amazing, for the record)
 

@@ -6,7 +6,7 @@ A family recipe.
 
 * 1<sup>1/2</sup> lbs. browned hamburger
 * 1 bag frozen tater tots
-* 1 bag frozen mixed vegetables
+* 1 bag frozen vegetable medley
 * 1 can Cream of Mushroom soup
 * 1 can Cream of Chicken soup
 * 1 tsp. salt

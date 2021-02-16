@@ -15,7 +15,7 @@ A family recipe.
 ### METHOD
 
 1. Preheat oven to 350&deg; 
-2. In a large bowl, mix all ingredients together until well combined
+2. In a large bowl, mix all ingredients except the tater tots together until well combined
 3. Transfer mixed ingredients to a greased, 9x13 baking dish
 4. Cover with tater tots
 5. Bake for 50 minutes; 60 minutes for more well-done tots.

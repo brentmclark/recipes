@@ -20,4 +20,9 @@
  
 ### Directions
 1. Transfer the meatloaf to a wire rack and place on the grill
-2. Cook for 2 hours, or until it reaches an internal temperature of 160℉. (closer to 4 hours)
+2. Smoke at 225℉ until it reaches an internal temperature of 145℉.
+3. Remove from smoker into a pan and tent with tin foil to retain heat and continue cooking.
+4. Increase smoker temperature to 400℉
+5. Once at temp, return meatloaf to smoker; directly on wire rack.
+6. Bake until internal temperature reaches 160℉, then remove and let rest for 5-10 minutes.
+7. Slice and serve with your favorite side dish.

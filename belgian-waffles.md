@@ -3,7 +3,7 @@ Makes 8 waffles
 
 ### INGREDIENTS
 - 3 eggs, separated
-- 2 cups mils
+- 2 cups milk
 - 5oz unsalted butter, melted and cooled
 - 1.5 tsp. vanilla extract
 - 2.25 cups [self-rising flour](http://allrecipes.com/recipe/149310/self-rising-flour/)

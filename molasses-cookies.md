@@ -21,6 +21,9 @@
 
 - 1/3 cup (about 67 g) granulated or coarse sugar
 
+## Yield
+30-32 cookies
+
 ## Instructions
 
 1. In a medium bowl, whisk together the flour, baking soda, ginger, cinnamon, cloves, nutmeg, and salt. Set aside.  
